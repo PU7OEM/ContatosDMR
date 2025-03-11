@@ -1,4 +1,3 @@
-Radio ID	CallSign	Name	New
 7240001	PP5VX	Boneval Samy Silva Sao Francisco do Su Brazil	PP5VX
 7240002	PY1LT	Lino Rodrigues Pereira Neto Duque De Caxias Rio de Janeiro Brazil	PY1LT
 7240003	PY1JD	Joaquim Dias Rio de Janeiro Rio de Janeiro Brazil	PY1JD
@@ -2403,7 +2402,7 @@ Radio ID	CallSign	Name	New
 7242416	PY2SLP	Sidnei Latorre Pedro Sao Caetano do Sul Sao Paulo Brazil	PY2SLP
 7242417	PU5PMF	Paulo Fernandes Foz do Iguacu Parana Brazil	PU5PMF
 7242418	PU7TSC	Saulo Concordio Caruaru Pernambuco Brazil	PU7TSC
-7242419	PU2TLX	Benedito Luis Siqueira Santa Rosa de Viterbo Sao Paulo Brazil	PU2TLX
+7242419	PY2TBT	Benedito Luis Siqueira Santa Rosa de Viterbo Sao Paulo Brazil	PU2TLX
 7242420	PU2MPW	Marco Antonio Poletti Ferreira Jardim Luciana - Bebedouro - CEP 14700-333 Sao Paulo Brazil	PU2MPW
 7242421	PY5IM	Ibere Fernandes curitiba Parana Brazil	PY5IM
 7242423	PY3TV	Cleber Martins SANTANA DO LIVRAMENTO Rio Grande do Sul Brazil	PY3TV
@@ -2755,7 +2754,7 @@ Radio ID	CallSign	Name	New
 7242778	PU2RGS	Joao Rostal Guaruja Sao Paulo Brazil	PU2RGS
 7242779	PY5YA	Marco Antonio Sordo Carlim Antonina Parana Brazil	PY5YA
 7242780	PU2KTE	Mauricio Giraldelli Santo Andre Sao Paulo Brazil	PU2KTE
-7242781	PY4AO	Alexandre Vagner De Oliveira Juiz de Fora Brazil	PY4AO
+7242781	PY4AO	Alexandre Oliveira Juiz de Fora Minas Gerais Brazil	PY4AO
 7242782	PU5BRA	Rinaldo Amaral Joinville Santa Catarina Brazil	PU5BRA
 7242783	PU2KVA	Osmar V M Uberaba Brazil	PU2KVA
 7242784	PU5BEC	Marcos Aurelio Pikart Blumenau Santa Catarina Brazil	PU5BEC
@@ -3345,7 +3344,7 @@ Radio ID	CallSign	Name	New
 7243374	PY6HD	Hamilton Limeira Feira de Santana Bahia Brazil	PY6HD
 7243375	PU2XGC	Nonegilberto NoneCORREA NoneSAO CARLOS Sao Paulo Brazil	PU2XGC
 7243376	PU7CBG	Claudio Bola Rio Largo Alagoas Brazil	PU7CBG
-7243377	PU2ZMI	Daniel Aguiar Sao Paulo Sao Paulo Brazil	PU2ZMI
+7243377	PU2ZMI	Daniel Aguiar Martinez Sao Paulo Sao Paulo Brazil	PU2ZMI
 7243378	PY2FRA	Francisco Fanizzi Neto Barueri Sao Paulo Brazil	PY2FRA
 7243379	PY6TS	Ramon Sepulveda Salvador Bahia Brazil	PY6TS
 7243380	PU4LLP	Lincoln Oliveira Lagoa da Prata Minas Gerais Brazil	PU4LLP
@@ -3748,7 +3747,7 @@ Radio ID	CallSign	Name	New
 7243783	PU4PHV	Vicente De Paulo Horta Belol Horizonte Minas Gerais Brazil	PU4PHV
 7243784	PU2SSH	Fidel SOARES Sao Paulo Brasil Sao Paulo Brazil	PU2SSH
 7243785	PP7EE	Ubiracy Cavalcanti MACEIO Alagoas Brazil	PP7EE
-7243786	PU4CAC	Jonatas Soares Melo KISSIMMEE FLORIDA USA Sao Paulo Brazil	PU4CAC
+7243786	PU4CAC	Jonatas Soares Melo Guarulhos Sao Paulo Brazil	PU4CAC
 7243787	PY5TRM	Orival Leal Guaratuba Parana Brazil	PY5TRM
 7243788	PU1CBL	Roneide Assis Oliveira roneide assis oliveira guacui es Espirito Santo Brazil	PU1CBL
 7243789	PU7RMZ	Jose Marque de Lima Jaboatao dos Guararapes Pernambuco Brazil	PU7RMZ
@@ -4181,7 +4180,7 @@ Radio ID	CallSign	Name	New
 7244220	PU5MLN	Osmar Gomes dos Santos FOZ DO IGUACU Parana Brazil	PU5MLN
 7244221	PU2RXS	Ricardo Salles Sao Vicente Sao Paulo Brazil	PU2RXS
 7244222	PU2RIM	Marco Antonio Silveira Sao Carlos Sao Paulo Brazil	PU2RIM
-7244223	PW8GDC	Geisivam Domingues Chaves Rolim de Moura Rondonia Brazil	PW8GDC
+7244223	PW8GDC	Geisivam Chaves Rolim De Moura Rondonia Brazil	PW8GDC
 7244224	PY7AND	Henrique Jose Dos Santos Recife Pernambuco Brazil	PY7AND
 7244225	PU2UGD	Felippe Gubert Duarte Sao Paulo Sao Paulo Brazil	PU2UGD
 7244226	PY3DS	Davi Silva De Souza OSORIO Rio Grande do Sul Brazil	PY3DS
@@ -5800,7 +5799,7 @@ Radio ID	CallSign	Name	New
 7245843	PU1KJH	John Lima Barra da Tijuca Rio de Janeiro Brazil	PU1KJH
 7245844	PU2VNH	Joao Picolomini Limeira Sao Paulo Brazil	PU2VNH
 7245845	PU2TXF	Felipe Almeida Ribeirao Preto Sao Paulo Brazil	PU2TXF
-7245846	PY2ZAA	Jesus Amil Costales Sao Paulo Sao Paulo Brazil	PU2XHE
+7245846	PY2ZAA	Jesus Sao Paulo Brazil	PU2XHE
 7245847	PT2ATC	Fabio Franca Silva Araujo Brasilia Distrito Federal Distrito Federal Brazil	PT2ATC
 7245848	PU5NWL	Luis Winck Santa Tereza do Oeste Parana Brazil	PU5NWL
 7245849	PU7HRF	Edvaldo Felipe Amorim Solanea Paraiba Brazil	PU7HRF
@@ -5993,7 +5992,7 @@ Radio ID	CallSign	Name	New
 7246036	PU2VRX	Walter carvalho sao paulo 05790100 Sao Paulo Brazil	PU2VRX
 7246037	PU2YWW	Edson Luis Camargo Rangel Piracicaba Sao Paulo Brazil	PU2YWW
 7246038	PU7XYZ	Abraao Barros Recife Pernambuco Brazil	PU7XYZ
-7246039	PY2MHN	Luiz Ricardo Telini Taubate Sao Paulo Brasil Cep 12062 360 Sao Paulo Brazil	PY2MHN
+7246039	PY2MHN	Luiz Ricardo Telini Taubate Sao Paulo Brazil	PY2MHN
 7246040	PU6TOR	Eliseu Paes Salvador Bahia Brazil	PU6TOR
 7246041	PU4JCZ	Julio Cesar Formiga Minas Gerais Brazil	PU4JCZ
 7246042	PY6TG	Edirlan Pardim Vitoria Da Conquista Bahia Brazil	PY6TG
@@ -6027,24 +6026,47 @@ Radio ID	CallSign	Name	New
 7246070	PY4VER	Joao Victor Verona Uberlandia Minas Gerais Brazil	PY4VER
 7246071	PU4IPA	Andre Leonardo Silva Ipatinga Minas Gerais Brazil	PU4IPA
 7246072	PU7HMS	Jose Missias Morais da Silva Patos Paraiba Brazil	PU7HMS
-7246073	PU1MDV	Maycon Valentim Nova Friburgo Rio de Janeiro Brazil	#N/DISP
-7246074	PU7ODP	Douglas Araujo Parambu Ceara Brazil	#N/DISP
-7246075	PU9DPA	Jader da Silva Rattigueri Tres Lagoas Mato Grosso do Sul Brazil	#N/DISP
-7246076	PT2JD	Aureliano Alexandre Aurelio Brasilia Distrito Federal Brazil	#N/DISP
-7246077	PU2WNS	Weberton Marcilio Da Silva Sao Jose Dos Campos Sao Paulo Brazil	#N/DISP
-7246078	PU2UBJ	Felipe da Silva Braz Sao Jose do Rio Pardo Sao Paulo Brazil	#N/DISP
-7246079	PU6TAX	Antonio Oliveira Salvador Bahia Brazil	#N/DISP
-7246080	PU2NGT	Sergio Pereira Guarulhos Sao Paulo Brazil	#N/DISP
-7246081	PU2OOA	Otavio Augusto De Paula Jau Sp Brazil Sao Paulo Brazil	#N/DISP
-7246082	PU2OSR	Jose Roberto Nascimento Sao Sebastiao Sao Paulo Brazil	#N/DISP
-7246083	PU2RGH	Renato Souza Mairinque Sao Paulo Brazil	#N/DISP
-7246084	PU7MWQ	Emerson Ribeiro Maraba Para Brazil	#N/DISP
-7246085	PU4EGS	Emerson George Belo Horizonte Minas Gerais Brazil	#N/DISP
-7246086	PU4APE	Adriano Palhares Formiga Minas Gerais Brazil	#N/DISP
-7246087	PU2URJ	Ricardo Ranieri Sao Paulo Sao Paulo Brazil	#N/DISP
-7246088	PU2UOS	Rafael Souza Sao Paulo Sao Paulo Brazil	#N/DISP
-7246089	PU3PET	Marcos Landa campos Cacapava do Sul Rio Grande do Sul Brazil	#N/DISP
-7246090	PU6RTT	Henrique Lima Brumado Bahia Brazil	#N/DISP
+7246073	PU1MDV	Maycon Valentim Nova Friburgo Rio de Janeiro Brazil	PU1MDV
+7246074	PU7ODP	Douglas Araujo Parambu Ceara Brazil	PU7ODP
+7246075	PU9DPA	Jader da Silva Rattigueri Tres Lagoas Mato Grosso do Sul Brazil	PU9DPA
+7246076	PT2JD	Aureliano Alexandre Aurelio Brasilia Distrito Federal Brazil	PT2JD
+7246077	PU2WNS	Weberton Marcilio Da Silva Sao Jose Dos Campos Sao Paulo Brazil	PU2WNS
+7246078	PU2UBJ	Felipe da Silva Braz Sao Jose do Rio Pardo Sao Paulo Brazil	PU2UBJ
+7246079	PU6TAX	Antonio Oliveira Salvador Bahia Brazil	PU6TAX
+7246080	PU2NGT	Sergio Pereira Guarulhos Sao Paulo Brazil	PU2NGT
+7246081	PU2OOA	Otavio Augusto De Paula Jau Sp Brazil Sao Paulo Brazil	PU2OOA
+7246082	PU2OSR	Jose Roberto Nascimento Sao Sebastiao Sao Paulo Brazil	PU2OSR
+7246083	PU2RGH	Renato Souza Mairinque Sao Paulo Brazil	PU2RGH
+7246084	PU7MWQ	Emerson Ribeiro Maraba Para Brazil	PU7MWQ
+7246085	PU4EGS	Emerson George Belo Horizonte Minas Gerais Brazil	PU4EGS
+7246086	PU4APE	Adriano Palhares Formiga Minas Gerais Brazil	PU4APE
+7246087	PU2URJ	Ricardo Ranieri Sao Paulo Sao Paulo Brazil	PU2URJ
+7246088	PU2UOS	Rafael Souza Sao Paulo Sao Paulo Brazil	PU2UOS
+7246089	PU3PET	Marcos Landa campos Cacapava do Sul Rio Grande do Sul Brazil	PU3PET
+7246090	PU6RTT	Henrique Lima Brumado Bahia Brazil	PU6RTT
+7246091	PU6STL	Felipe Costa Dias Davila Bahia Brazil	#N/DISP
+7246092	PU4GML	Geraldo Magela Langsdorff Formiga Minas Gerais Brazil	#N/DISP
+7246093	PU3EML	Eduardo Bernardon PORTO ALEGRE Rio Grande do Sul Brazil	#N/DISP
+7246094	PU2FPK	Pyter Cabral Caldas Novas Goias Brazil	#N/DISP
+7246095	PU1SZA	Ricardo de Souza Rio de Janeiro Brazil	#N/DISP
+7246096	PU5SVA	Paulo Neumann Mandirituba Parana Brazil	#N/DISP
+7246097	PU2ORC	Rodrigo Marques Rancharia Sao Paulo Brazil	#N/DISP
+7246098	PU8OAB	Luis Alexandre Imperatriz Maranhao Brazil	#N/DISP
+7246099	PU2WIY	Fabio Martins Santos Sao Paulo Brazil	#N/DISP
+7246100	PU2VHH	Luis Elias Sao Paulo Sao Paulo Brazil	#N/DISP
+7246101	PU2VZD	Carlos Divino Lorena Sao Paulo Brazil	#N/DISP
+7246102	PU2KAO	Marcos Savioli Monte Alto Sao Paulo Brazil	#N/DISP
+7246103	PU2WYB	Luiz Freitas Sao Vicente Sao Paulo Brazil	#N/DISP
+7246104	PP2RAM	Amorim Pereira Trindade Goias Brazil	#N/DISP
+7246105	PU3PAZ	Flavio Bastos de Almeida Portable Station Rio Grande do Sul Brazil	#N/DISP
+7246106	PU2OOG	Edilson Gutierres Aracatuba Sp Sao Paulo Brazil	#N/DISP
+7246107	PU9ALI	Adriano Pereira Tres Lagoas Mato Grosso do Sul Brazil	#N/DISP
+7246108	PU2UGY	Bruno Stephano Peruibe Sao Paulo Brazil	#N/DISP
+7246109	PU2DGB	Gildasio Soares de Sales Brasilia Distrito Federal Brazil	#N/DISP
+7246110	PU2LMJ	Lenadro Siqueira Mairinque Sao Paulo Brazil	#N/DISP
+7246111	PU5OJF	Joao Francisco Kasecker Curitiba Parana Brazil	#N/DISP
+7246112	PU5TIG	Ricardo Lucas Goioere Parana Brazil	#N/DISP
+7246113	PU7RFO	Francisco Gurgel Caruaru Pernambuco Brazil	#N/DISP
 7247001	PU7MKI	Fabrizio Bratta Fortaleza Ceara Brazil	PU7MKI
 7247002	PU7LSB	Lucivaldo Sousa De Brito Mossoro - Rio Grande Brazil	PU7LSB
 7247003	PT7KO	Junior Accioly Fortaleza Ceara Brazil	PT7KO
