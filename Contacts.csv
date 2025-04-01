@@ -1432,7 +1432,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7241439,PU5RBA,Jose,Adir,Ponta Grossa,PR,BR
 7241440,PU2KWZ,Flavio,Busch,Limeira,SP,BR
 7241441,PU2XUB,Silvio,Sachetti,Limeira,SP,BR
-7241442,PU5SGP,Gilmar,Santos,Guaratuba-,PR,BR
+7241442,PU5SGP,Gilmar,Santos,Guaratuba,PR,BR
 7241443,PY5MK,Mailon,Santos,Guaratuba,PR,BR
 7241444,PU4RVV,Rodrigo,Villani,Belo Horizonte,MG,BR
 7241445,PU2SUK,Francisco,Claudio,Rio Claro,SP,BR
@@ -1685,7 +1685,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7241694,PU4BEF,Pierre,Luiz,Piumhi,MG,BR
 7241695,PY2ZE,Carlos,Franca,Campinas,SP,BR
 7241696,PU2OBX,Odilon,Neto,pindamonhangaba,SP,BR
-7241697,PU1JHR,zilmo,Tavares,Rio de Janeiro,RJ,BR
+7241697,PU1JHR,Zilmo,Tavares,Rio de Janeiro,RJ,BR
 7241698,PY2AID,Sydney,Martins,Sao Paulo,SP,BR
 7241699,PP2GTA,Alexandre,Queiroz,Goiania,GO,BR
 7241700,PU7RDM,Armando,Oliveira,Jaboatao,PE,BR
@@ -4787,7 +4787,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7244827,PU1RSF,Rogerio,Fonseca,Duque de Caxias,RJ,BR
 7244828,PU4TAB,Ivan,Santos,Manhumirim,MG,BR
 7244829,PU3FLM,Fernando,Magalhaes,Novo Hamburgo,RS,BR
-7244830,PU5PRN,Igor V,Foggiatto,Sao Jose dos Pinhais,PR,BR
+7244830,PU5PRN,Igor,Foggiatto,Sao Jose dos Pinhais,PR,BR
 7244831,PU5PRO,Luciano,Reis,Sao Joao do Ivai,PR,BR
 7244832,PY2XJ,Daniel,Nascimento,Sao Paulo,SP,BR
 7244833,PY3DXM,Daniel,Melo,Sta Maria,RS,BR
@@ -6018,14 +6018,14 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246058,PU2UJY,Fernando,Castro,Sao Paulo,SP,BR
 7246059,PU8AKK,Klebenson,Lopes,Boca do Acre,AM,BR
 7246060,PU7VOZ,Marcus,Oliveira,Recife,PE,BR
-7246061,PY2GHZ,Renato ,Rodrigues,Cruzeiro,SP,BR
+7246061,PY2GHZ,Renato,Rodrigues,Cruzeiro,SP,BR
 7246062,PU3MGD,Marcio,Godoy,Dom Pedrito,RS,BR
-7246063,PU4FSG,Fernando,Goulart ,Itau de Minas,MG,BR
+7246063,PU4FSG,Fernando,Goulart,Itau de Minas,MG,BR
 7246064,PU5JRB,Jocelito,Bernardo,Lages,SC,BR
 7246065,PT9AB,Cristiano,Bispo,Campo Grande,MS,BR
 7246066,PU5AFK,Sergio,Roberto,Joinville,SC,BR
-7246067,PU3YAH,Josias ,Candiolli,Ararica,RS,BR
-7246068,PY6JB,Joao ,Bosco,Salvador,BA,BR
+7246067,PU3YAH,Josias,Candiolli,Ararica,RS,BR
+7246068,PY6JB,Joao,Bosco,Salvador,BA,BR
 7246069,PU2RYC,Misael,Santos,Barra Bonita,SP,BR
 7246070,PY4VER,Joao,Victor,Uberlandia,MG,BR
 7246071,PU4IPA,Andre,Leonardo,Ipatinga,MG,BR
@@ -6033,27 +6033,27 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246073,PU1MDV,Maycon,Valentim,Nova Friburgo,RJ,BR
 7246074,PU7ODP,Douglas,Araujo,Parambu,CE,BR
 7246075,PU9DPA,Jader,Silva,Tres Lagoas,MS,BR
-7246076,PT2JD,Aureliano,Alexandre,Bras�lia,DF ,BR
-7246077,PU2WNS,Weberton ,Marcilio,Sao Jose dos Campos,SP,BR
+7246076,PT2JD,Aureliano,Alexandre,Brasília,DF ,BR
+7246077,PU2WNS,Weberton,Marcilio,Sao Jose dos Campos,SP,BR
 7246078,PU2UBJ,Felipe,Braz,Sao Jose do Rio Pardo,SP,BR
 7246079,PU6TAX,Antonio,Oliveira,Salvador,BA,BR
 7246080,PU2NGT,Sergio,Pereira,Guarulhos,SP,BR
 7246081,PU2OOA,Otavio,Augusto,Jau,SP,BR
 7246082,PU2OSR,Jose,Roberto,Sao Sebastiao,SP,BR
-7246083,PU2RGH,Renato ,Souza,Mairinque,SP,BR
+7246083,PU2RGH,Renato,Souza,Mairinque,SP,BR
 7246084,PU7MWQ,Emerson,Ribeiro,Maraba,PA,BR
 7246085,PU4EGS,Emerson,George,Belo Horizonte,MG,BR
-7246086,PU4APE,Adriano ,Palhares,Formiga,MG,BR
-7246087,PU2URJ,Ricardo,Ranieri,Sao Paulo ,SP,BR
+7246086,PU4APE,Adriano,Palhares,Formiga,MG,BR
+7246087,PU2URJ,Ricardo,Ranieri,Sao Paulo,SP,BR
 7246088,PU2UOS,Rafael,Souza,Sao Paulo,SP,BR
 7246089,PU3PET,Marcos,Campos,Cacapava,RS,BR
 7246090,PU6RTT,Henrique,Lima,Brumado,BA,BR
 7246091,PU6STL,Felipe,Costa,Dias D’Avila,BA,BR
-7246092,PU4GML,Geraldo ,Magela,Formiga,MG,BR
+7246092,PU4GML,Geraldo,Magela,Formiga,MG,BR
 7246093,PU3EML,Eduardo,Bernardoni,Porto Alegre,RS,BR
-7246094,PU2FPK,Pyter ,Cabral,Caldas Novas,MG,BR
+7246094,PU2FPK,Pyter,Cabral,Caldas Novas,MG,BR
 7246095,PU1SZA,Ricardo,Lemos,Teresopolis,RJ,BR
-7246096,PU5SVA,Paulo ,Newmann,Mandirituba,PR,BR
+7246096,PU5SVA,Paulo,Newmann,Mandirituba,PR,BR
 7246097,PU2ORC,Rodrigo,Marques,Rancharia,SP,BR
 7246098,PU8OAB,Luis,Alexandre,Imperatriz,MA,BR
 7246099,PU2WIY,Fabio,Martins,Santos,SP,BR
@@ -6064,7 +6064,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246104,PP2RAM,Amorim,Pereira,Trindade,GO,BR
 7246105,PU3PAZ,Flavio,Bastos,Porto Alegre,RS,BR
 7246106,PU2OOG,Edilson,Gutierres,Aracatuba,SP,BR
-7246107,PU9ALI,Adriano,Pereira,Tres Lagoas ,MS,BR
+7246107,PU9ALI,Adriano,Pereira,Tres Lagoas,MS,BR
 7246108,PU2UGY,Bruno,Stephano,Peruibe,SP,BR
 7246109,PU2DGB,Gildasio,Soares,Brasília,DF,BR
 7246110,PU2LMJ,Leandro,Alvares,Mairinque,SP,BR
@@ -6076,7 +6076,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246116,PU2XUP,Luiz,Miguel,Santos,SP,BR
 7246117,PU2UPZ,Luiz,Galicioli,Santa Rosa de Viterbo,SP,BR
 7246118,PU2UIE,Erico,Luis,Ilha Solteira,SP,BR
-7246119,PU2EPL,Joao,Costa,Bras�lia,DF,BR
+7246119,PU2EPL,Joao,Costa,Brasília,DF,BR
 7246120,PU2NZE,Adriano,Zanotti,Pindamonhangaba,SP,BR
 7246121,PU2VMQ,Alexandre,Purcino,Sao Paulo,SP,BR
 7246122,PU5DLL,Carlos,Fischer,Jaragua do Sul,SC,BR
@@ -6090,7 +6090,7 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246130,PU2FPC,Armando,Amorosino,Goiania,GO,BR
 7246131,PU4JCW,Juliano,David,Sao Sebastiao do Paraiso,MG,BR
 7246132,PY2WSJ,Wallace,Oliveira,Pindamonhangaba,SP,BR
-7246133,PY9HS,Heli ,Souza,Barra do Garcas,MS,BR
+7246133,PY9HS,Heli,Souza,Barra do Garcas,MS,BR
 7246134,PU5PMR,Emanuelle,Rubini,Maringa,PR,BR
 7246135,PU7OOJ,Elcio,Fernandes,Fortaleza,CE,BR
 7246136,PY4LEO,Rinaldo,Meireles,Divinopolis,MG,BR
@@ -6099,11 +6099,11 @@ Radio ID,CallSign,Name,NickName,City,State,Country
 7246139,PY2JP,Juliano,Domingues,Indaiatuba,SP,BR
 7246140,PU7MCH,Manoel,Brandao,Aquiraz,CE,BR
 7246141,PU6PAR,Gustavo,Parrini,Teixeira Freitas,BA,BR
-7246142,PU1LUY,Luiz ,Costa,Rio de Janeiro,RJ ,BR
+7246142,PU1LUY,Luiz,Costa,Rio de Janeiro,RJ ,BR
 7246143,PU2MPD,Manoel,Farias,Ribeirao Preto,SP ,BR
 7246144,PU5TBB,Bruno,Molteni,Curitiba,PR,BR
-7246145,PU4CEO,Carlos ,Eduardo,Barbacena,MG,BR
-7246146,PU2YKH,Silvio ,Germano,Sao Paulo,SP ,BR
+7246145,PU4CEO,Carlos,Eduardo,Barbacena,MG,BR
+7246146,PU2YKH,Silvio,Germano,Sao Paulo,SP ,BR
 7247001,PU7MKI,Fabrizio,Bratta,Fortaleza,CE,BR
 7247002,PU7LSB,Lucivaldo,Sousa,Mossoro,RN,BR
 7247003,PT7KO,Junior,Accioly,Fortaleza,CE,BR
