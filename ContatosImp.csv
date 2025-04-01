@@ -223,7 +223,7 @@
 7240224	PU7VIP	AGUINALDO FERNANDES DE LIRA OLINDA Pernambuco Brazil	PU7VIP
 7240225	PU2LJX	JOAO BRAUNSTEIN Sao Paulo Sao Paulo Brazil	PU2LJX
 7240226	PY2JU	Eduardo Affonso Barueri Sao Paulo Brazil	PY2JU
-7240227	PY4AFV	Edvaldo Franck Vieira Campolide Antonio Carlos Minas Gerais Brazil	PY4AFV
+7240227	PY4AFV	Edvaldo Vieira Campolide Antonio Carlos Minas Gerais Brazil	PY4AFV
 7240228	PU2KPJ	Jair Andrade Da Silva Almeida Sao Paulo Sao Paulo Brazil	PU2KPJ
 7240229	PU2LRM	Leandro Martinez Sao Paulo Brazil	PU2LRM
 7240230	PP5MGT	Marcelo Roberto Gadotti Timbo Santa Catarina Brazil	PP5MGT
@@ -667,7 +667,7 @@
 7240670	PU2PYB	Decio Luiz Balancuelo Sao Jose dos Campos Sao Paulo Brazil	PU2PYB
 7240671	PU8NOW	J.B. Jarbas Borges Sao Luis Maranhao Brazil	PU8NOW
 7240672	PU2TNC	Sergio Montini Sao Paulo Sao Paulo Brazil	PU2TNC
-7240673	PU2PFH	Jose Antonio Thomazini Ribeirao Preto - Brazil - Sa Sao Paulo Brazil	PU2PFH
+7240673	PU2PFH	Jose Antonio Thomazini Ribeirao Preto Sao Paulo Brazil	PU2PFH
 7240674	PU5WIF	Marcos Amaral Curitiba Parana Brazil	PU5WIF
 7240675	PU2KCA	Carlos OLIVEIRA SANTOS Sao Paulo Brazil	PU2KCA
 7240676	PY8GAS	JOSE CARLOS SOUZA Pedra Branca do Amapari Amapa Brazil	PY8GAS
@@ -1135,7 +1135,7 @@
 7241143	PU2LLU	Luiz Lamoza Guaruja Sao Paulo Brazil	PU2LLU
 7241144	PU2LUZ	Jose Carlos Gonsalves Santos Sao Paulo Brazil	PU2LUZ
 7241145	PU2YZS	Rodrigo Salvatori Sao Bernardo do Campo Sao Paulo Brazil	PU2YZS
-7241146	PU2NVA	Anderson San Eletro Arte Sao Paulo Sao Paulo Brazil	PU2NVA
+7241146	PU2NVA	Anderson San Andsan Radiocom Sao Paulo Sao Paulo Brazil	PU2NVA
 7241147	PU2RZP	Rafael Domingos Filho EspiRito Santo Do P Sao Paulo Brazil	PU2RZP
 7241148	PU2TYA	Edgar Morato Da Silva ArauJo Santo Andre Sao Paulo Brazil	PU2TYA
 7241149	PU2RTO	Roberto Correia Jr Santos Sao Paulo Brazil	PU2RTO
@@ -5234,7 +5234,7 @@
 7245277	PU8WAT	Valdiclei Santos da Rosa Capanema Para Brazil	PU8WAT
 7245278	PU2MPN	Marcos Paulo Anka Sao Paulo Sao Paulo Brazil	PU2MPN
 7245279	PU2IRB	Rafael Balbo De Oliveira Porto Nacional Tocantins Brazil	PU2IRB
-7245280	PU4AAI	Cleber Junior Uberaba Minas Gerais Brazil	PU4AAI
+7245280	PU4AAI	Cleber Jr Uberaba Minas Gerais Brazil	PU4AAI
 7245281	PU2UZT	Frederico Pazeto Orlandia Sao Paulo Brazil	PU2UZT
 7245282	PU6LTT	Pu6Ltt brenno santana pereira Santo Antonio de Jesus Bahia Brazil	PU6LTT
 7245283	PY5CLE	Cleber Medina Arapongas Parana Brazil	PY5CLE
@@ -5940,7 +5940,7 @@
 7245984	PU7PXT	Marcelo Lima Itapipoca Ceara Brazil	PU7PXT
 7245985	PY2LSB	Jose Bedendo Sao Paulo Brazil	PY2LSB
 7245986	PU4DAM	Alessandro Dias Mendes Montes Claros Minas Gerais Brazil	PU4DAM
-7245987	PU5VIM	Vinicius Meireles Foz do Iguacu Parana Brazil	PU5VIM
+7245987	PY5VM	Vinicius Meireles Foz Do Iguacu Parana Brazil	PU5VIM
 7245988	PU4BER	Rogerio Rodrigues da Silva Caete Minas Gerais Brazil	PU4BER
 7245989	PU2SSS	Guilherme Soares Sao Paulo Sao Paulo Brazil	PU2SSS
 7245990	PU2SSS	Guilherme Soares Sao Paulo Sao Paulo Brazil	PU2SSS
@@ -5967,7 +5967,7 @@
 7246011	PY6UN	Bruno Oliveira Salvador Bahia Brazil	PY6UN
 7246012	PU6BVM	Vanderlei Genuino Aracaju Brazil	PU6BVM
 7246013	PY6ZIM	Juergen Ewald Mahr Amargosa Bahia Brazil	PY6ZIM
-7246014	PU2JSS	Jose SEVERINO PUGMIL Tocantins Brazil	PU6BVM
+7246014	PU2JSS	Jose Severino Pugmil Tocantins Brazil	PU6BVM
 7246015	PP6VS	Valfredo Santos Aracaju SERGIPE Brazil	PP6VS
 7246016	PY6EG	Emanoel GalvaO Salvador Bahia Brazil	PY6EG
 7246017	PY6AHX	Moacyr De Queiroz Paim Filho Lauro De Freitas Bahia Brazil	PY6AHX
@@ -6067,14 +6067,39 @@
 7246111	PU5OJF	Joao Francisco Kasecker Curitiba Parana Brazil	PU5OJF
 7246112	PU5TIG	Ricardo Lucas Goioere Parana Brazil	PU5TIG
 7246113	PU7RFO	Francisco Gurgel Caruaru Pernambuco Brazil	PU7RFO
-7246114	PY6AFL	Jose Almeida Salvador Bahia Brazil	#N/DISP
-7246115	PU2UMK	Micael Jarniac Mogi Mirim Sao Paulo Brazil	#N/DISP
-7246116	PU2XUP	Luiz Miguel Santos Sao Paulo Brazil	#N/DISP
-7246117	PU2UPZ	Luiz Galicioli Santa Rosa De Viterbo Sao Paulo Brazil	#N/DISP
-7246118	PU2UIE	Erico Luis Ilha Solteira Sao Paulo Brazil	#N/DISP
-7246119	PU2EPL	Joao Costa Brasilia Distrito Federal Brazil	#N/DISP
-7246120	PU2NZE	Adriano Zanotti Pindamonhangaba Sao Paulo Brazil	#N/DISP
-7246121	PU2VMQ	Alexandre Purcino Sao Paulo Sao Paulo Brazil	#N/DISP
+7246114	PY6AFL	Jose Almeida Salvador Bahia Brazil	PY6AFL
+7246115	PU2UMK	Micael Jarniac Mogi Mirim Sao Paulo Brazil	PU2UMK
+7246116	PU2XUP	Luiz Miguel Santos Sao Paulo Brazil	PU2XUP
+7246117	PU2UPZ	Luiz Galicioli Santa Rosa De Viterbo Sao Paulo Brazil	PU2UPZ
+7246118	PU2UIE	Erico Luis Ilha Solteira Sao Paulo Brazil	PU2UIE
+7246119	PU2EPL	Joao Costa Brasilia Distrito Federal Brazil	PU2EPL
+7246120	PU2NZE	Adriano Zanotti Pindamonhangaba Sao Paulo Brazil	PU2NZE
+7246121	PU2VMQ	Alexandre Purcino Sao Paulo Sao Paulo Brazil	PU2VMQ
+7246122	PU5DLL	Carlos Fischer Jaraggua Do Sul Santa Catarina Brazil	#N/DISP
+7246123	PU1SHK 	Matheus Miller Campos Dos Goytacazes Rio de Janeiro Brazil	#N/DISP
+7246124	PU2RNU	Omar Sabbag Ilha Solteira Sao Paulo Brazil	#N/DISP
+7246125	PU5SCI	Alex Sousa Colombo Parana Brazil	#N/DISP
+7246126	PU4LSW	Tulio Guimaraes Ituiutaba Minas Gerais Brazil	#N/DISP
+7246127	PU7RIZ	Italo Teixeira Caruaru Pernambuco Brazil	#N/DISP
+7246128	PU5PDA	Norberto Gasparotto Filho Curitiba Parana Brazil	#N/DISP
+7246129	PU2VVR	Anderson Braga Cachoeira Paulista Sao Paulo Brazil	#N/DISP
+7246130	PU2FPC	Armando Amorosino Neto Goiania Goias Brazil	#N/DISP
+7246131	PU4JCW	Juliano De Sao Sabastiao Do Paraiso Minas Gerais Brazil	#N/DISP
+7246132	PY2WSJ	Wallace Oliveira Pindamonhangaba Sao Paulo Brazil	#N/DISP
+7246133	PY9HS	Heli Souza Barra Do Garcas Mato Grosso Brazil	#N/DISP
+7246134	PU5PMR	Emanuelle Rubini Maringa Parana Brazil	#N/DISP
+7246135	PU7OOJ	Elcio Fernandes Fortaleza Ceara Brazil	#N/DISP
+7246136	PY4LEO	Rinaldo Meireles Divinopolis Minas Gerais Brazil	#N/DISP
+7246137	PY6NJ	Natacio Pereira De Carvalho Vitoria Da Conquista Bahia Brazil	#N/DISP
+7246138	PU1WDR	Wagner Da Rocha Teresopolis Rio de Janeiro Brazil	#N/DISP
+7246139	PY2JP	Juliano Domingues Indaiatuba Sao Paulo Brazil	#N/DISP
+7246140	PU7MCH	Manoel Brandao Aquiraz Ceara Brazil	#N/DISP
+7246141	PU6PAR	Gustavo Parrini Teixeira De Freitas Bahia Brazil	#N/DISP
+7246142	PU1LUY	Luiz Costa Rio de Janeiro Brazil	#N/DISP
+7246143	PU2MPD	Manoel Farias Ribeirao Preto Sao Paulo Brazil	#N/DISP
+7246144	PU5TBB	Bruno Molteni Curitiba Parana Brazil	#N/DISP
+7246145	PU4CEO	Carlos Eduardo Barbacena Minas Gerais Brazil	#N/DISP
+7246146	PU2YKH	Silvio Sao Paulo Brazil	#N/DISP
 7247001	PU7MKI	Fabrizio Bratta Fortaleza Ceara Brazil	PU7MKI
 7247002	PU7LSB	Lucivaldo Sousa De Brito Mossoro - Rio Grande Brazil	PU7LSB
 7247003	PT7KO	Junior Accioly Fortaleza Ceara Brazil	PT7KO
